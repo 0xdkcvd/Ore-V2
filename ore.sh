@@ -122,7 +122,7 @@ function main_menu() {
     while true; do
         clear
         echo "================== Ore V2 Node Installation =================="
-        echo "Komunitas Node Telegram: https://t.me/niuwuriji"
+        echo "NANANUNU.xyz"
         echo "=============================================================="
         echo "Pilih operasi yang ingin Anda lakukan:"
         echo "1. Instalasi node baru"
